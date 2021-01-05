@@ -5,7 +5,7 @@
         "../sass/main.scss",
         "../sass/utils/_variables.scss",
         "../sass/utils/_mixins.scss",
-        "../sass/utils/_common.scss",
+        "../sass/base/_common.scss",
         "../sass/components/_section.scss",
         "../sass/components/_button.scss",
         "../sass/components/_logo.scss",
